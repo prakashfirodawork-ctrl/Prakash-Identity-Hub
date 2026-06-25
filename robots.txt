@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prakashchoudhary.replit.app/sitemap.xml
+https://prakashfirodawork-ctrl.github.io/Prakash-Identity-Hub/sitemap.xml
